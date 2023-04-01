@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Gamuto", "Gamuto\Gamuto.vcxproj", "{3794A3DF-5BED-4E7A-8F01-A07371FD7B3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3794A3DF-5BED-4E7A-8F01-A07371FD7B3A}.Debug|x64.ActiveCfg = Debug|x64
+		{3794A3DF-5BED-4E7A-8F01-A07371FD7B3A}.Debug|x64.Build.0 = Debug|x64
+		{3794A3DF-5BED-4E7A-8F01-A07371FD7B3A}.Debug|x86.ActiveCfg = Debug|Win32
+		{3794A3DF-5BED-4E7A-8F01-A07371FD7B3A}.Debug|x86.Build.0 = Debug|Win32
+		{3794A3DF-5BED-4E7A-8F01-A07371FD7B3A}.Release|x64.ActiveCfg = Release|x64
+		{3794A3DF-5BED-4E7A-8F01-A07371FD7B3A}.Release|x64.Build.0 = Release|x64
+		{3794A3DF-5BED-4E7A-8F01-A07371FD7B3A}.Release|x86.ActiveCfg = Release|Win32
+		{3794A3DF-5BED-4E7A-8F01-A07371FD7B3A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29AA6982-25AB-45D0-B05B-728DD92D5134}
+	EndGlobalSection
+EndGlobal
